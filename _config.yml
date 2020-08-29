@@ -12,12 +12,12 @@ sass:
 resume_avatar:                  "true"
 
 resume_name:                    "Alex Neal"
-resume_title:                   "Programmer / Computer Scientist"
+resume_title:                   "Graduate CS Student / Aspiring Data Scientist"
 resume_contact_email:           "alex@alexneal.net"
 resume_contact_telephone:       "(214)-537-7677"
 resume_contact_address:         "Dallas, Texas"
 resume_header_contact_info: "Dallas, Texas | 1-(214)-537-7677 | alex@alexneal.net"
-resume_header_intro: "<p></p>"
+resume_header_intro: "<p>Dedicated problem-solver who delights in figuring out how stuff works. Strong creative thinker with a background in the arts. Experienced educator with exceptional communication skills.</p>"
 
 
 # use "yes" to display the email contact button,
@@ -33,7 +33,7 @@ resume_section_education:       true
 resume_section_projects:        true
 resume_section_skills:          true
 resume_section_recognition:     false
-resume_section_links:           true
+resume_section_links:           false
 resume_section_associations:    false
 # resume_section_interests:       true
 

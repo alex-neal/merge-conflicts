@@ -1,9 +1,12 @@
 # Skills
 
-# Education
+
+- skill: Programming
+  description: Significant experience with Python, R, and Java. Familiarity with JavaScript, HTML, CSS, SQL, PHP, LaTeX, C++, and Assembly.
+
+- skill: Tools and Frameworks
+  description: Hadoop/MapReduce, Spark, TensorFlow/Keras, MongoDB, Node.js/Express, JQuery
+
 - skill: Education
   description: Years of experience teaching private and group music lessons.
 
-# Leadership
-- skill: Data Science
-  description: 
