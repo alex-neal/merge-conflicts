@@ -78,7 +78,7 @@
           <h4 class="resume-item-details">{{ group.career }}</h4>
           <p class="resume-item-copy">
             {% for course in group.courses %}
-              {{ course }} {% if forloop.last != true} &bull; {% endif %}
+              {{ course }} {% if forloop.last != true %} &bull; {% endif %}
 
             {% endfor %}
           </p>
