@@ -7,6 +7,6 @@
 - skill: Tools and Frameworks
   description: Hadoop/MapReduce, Spark, TensorFlow/Keras, MongoDB, Node.js/Express, JQuery
 
-- skill: Education
-  description: Years of experience teaching private and group music lessons.
+# - skill: Education
+#   description: Years of experience teaching private and group music lessons.
 

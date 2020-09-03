@@ -1,6 +1,6 @@
 # Site settings
-title: "Alex Neal: Resume"
-description: "Alex's Resume"
+title: "Alex Neal"
+description: "Online resume for Alex Neal"
 
 # Build settings
 markdown: kramdown
@@ -47,7 +47,7 @@ resume_social_links:
   # resume_facebook_url:          "insert Facebook URL here"
   resume_linkedin_url:          "https://www.linkedin.com/in/alexjneal"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://alexneal.github.io/"
+  # resume_website_url:           "http://alexneal.github.io/"
 resume_print_social_links:      true
 
 # Design settings
