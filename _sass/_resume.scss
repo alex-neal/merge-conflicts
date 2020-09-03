@@ -21,7 +21,7 @@
 .page-header { padding: 1.5rem 0;
 
   .avatar {
-    width: 95px;
+    width: 190px;
     max-width: 100%;
     overflow: hidden;
     @include border-radius(100px);
@@ -32,7 +32,7 @@
   .header-name {
     @include sans;
     font-size: 3rem;
-    font-weight: 900;
+    font-weight: 100;
     text-align: center;
     letter-spacing: -.15rem;
     line-height: 1;
