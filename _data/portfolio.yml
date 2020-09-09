@@ -6,4 +6,8 @@
   #role: Creator
   #duration: January 2020 &mdash; June 2020
   url: "https://github.com/alex-neal/halfmoon"
-  description: A Node.js e-commerce app for a fictional outdoor gear company.
+  description: A Node.js e-commerce app for an outdoor gear company.
+  
+- project: Mars Image Classification
+  url: "https://alex-neal.github.io/mars_cnn"
+  description: Tuning and training a convolutional neural net to classify landmarks on the Martian surface.
