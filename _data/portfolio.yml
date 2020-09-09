@@ -11,3 +11,7 @@
 - project: Mars Image Classification
   url: "https://alex-neal.github.io/mars_cnn"
   description: Tuning and training a convolutional neural net to classify landmarks on the Martian surface.
+  
+- project: setgen
+  url: "https://github.com/alex-neal/setgen"
+  description: Prototype Java program that generates setlists for my cover band.
