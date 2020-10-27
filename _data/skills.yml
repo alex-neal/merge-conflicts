@@ -5,7 +5,7 @@
   description: Significant experience with Python, R, and Java. Familiarity with JavaScript, HTML, CSS, SQL, PHP, LaTeX, C++, and Assembly.
 
 - skill: Tools and Frameworks
-  description: Hadoop/MapReduce, Spark, TensorFlow/Keras, MongoDB, Node.js/Express, JQuery, Git
+  description: Hadoop/MapReduce, Spark, TensorFlow/Keras, MongoDB, Node.js/Express, JQuery, Git, Docker
 
 # - skill: Education
 #   description: Years of experience teaching private and group music lessons.
